@@ -12,7 +12,7 @@ Live examples:
 
 - [Easy](https://carc.in/#/r/feuv)
 - [Intermediate](https://carc.in/#/r/feuu)
-- [Difficult](https://carc.in/#/r/feuw)
+- [Difficult](https://www.guvi.in/ide?id=64a5fb385384b)
 
 My code has big PP :laugh:
 

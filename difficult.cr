@@ -18,8 +18,8 @@ PP = ->(n : Int32){
       return false unless PP.call(i)
       r = false
       (i+1).upto(100) { |i|
-        r = true if PP.call(i)
         break if i % 7 == 0 || i % 11 == 0
+        r = true if PP.call(i)
       }
       r ? false : true
     }.call

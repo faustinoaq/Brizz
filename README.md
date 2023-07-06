@@ -11,7 +11,7 @@ Difficulty: Easy, Intermediate, and Difficult
 Live examples:
 
 - [Easy](https://carc.in/#/r/feuv)
-- [Intermediate](https://carc.in/#/r/feuu)
+- [Intermediate](https://carc.in/#/r/fevp)
 - [Difficult](https://www.guvi.in/ide?id=64a5fb385384b)
 
 My code has big PP :laugh:
